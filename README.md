@@ -1,4 +1,4 @@
-# Analyze Website Landing Page A/B Test Results-
+# Analyze Website Landing Page A/B Test Results
 Author: Libin Guo
 
 The Goal are
