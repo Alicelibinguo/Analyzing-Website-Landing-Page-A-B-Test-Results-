@@ -18,10 +18,8 @@ The p-value associated with ab_page is 0.190. The null in c-e part is that there
 Part II assumes the old page is better unless the new page proves to be definitely better at a Type I error rate of 5%, compared to question c-e,they have different explainory varibale or factor for the result.
 
 2. Country Factors:
-Interpreting Result:
-
-For every unit for new_page decrease, convert will be 1.5% more likely to happen, holding all other varible constant.
-
+I create Logit regression model for conveted and country, and us CA and old page as baseline
+```For every unit for new_page decrease, convert will be 1.5% more likely to happen, holding all other varible constant.
 For every unit for UK increases, convert is 5.2% more to happen, holding all other varible constant.
-
 For every unit for US increases, convert is 4.2% more to happen, holding all other varible constant.
+```
