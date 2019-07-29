@@ -10,3 +10,9 @@ The Goal are
 - Part I - Probability
 - Part II - A/B Test
 - Part III - Regression
+
+Finding:
+ 1. 
+The p-value associated with ab_page is 0.190. The null in c-e part is that there is no difference between the treatment and control group. Alternative hypotheses is that there is difference between between the treatment and control group
+
+Part II assumes the old page is better unless the new page proves to be definitely better at a Type I error rate of 5%, compared to question c-e,they have different explainory varibale or factor for the result.
